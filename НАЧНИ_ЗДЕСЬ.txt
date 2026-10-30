@@ -1,0 +1,28 @@
+СЕРГЕЙ НИКУЛИН — QA ENGINEER
+==================================
+Сайт уже настроен под GitHub: sergeinikulin3838-AQA
+Ничего менять в коде и запускать Python НЕ НУЖНО.
+
+Загрузить сайт на GitHub БЕЗ КОМАНДНОЙ СТРОКИ:
+
+1. Распакуй архив sergeinikulin3838-aqa-github-pages.zip.
+2. В браузере открой https://github.com/new и войди под аккаунтом sergeinikulin3838-AQA.
+3. Repository name: sergeinikulin3838-aqa.github.io (все буквы маленькие).
+4. Поставь Public. Галочку Add a README file оставь выключенной.
+5. Нажми Create repository.
+6. На странице пустого репозитория найди ссылку uploading an existing file.
+   Если её нет: Add file -> Upload files.
+7. Перетащи ВСЕ ФАЙЛЫ из распакованной папки прямо в окно браузера.
+   НЕ перетаскивай ZIP целиком и НЕ загружай папку одним вложенным каталогом!
+   Главный файл index.html должен лежать в корне репозитория.
+8. Внизу впиши в поле Commit message: Add QA portfolio website.
+9. Нажми Commit changes.
+10. В репозитории открой Settings -> Pages.
+11. Source: Deploy from a branch. Branch: main, folder /(root), затем Save.
+12. Открой https://sergeinikulin3838-aqa.github.io/
+
+Публикация может занимать до 10 минут. Если по ссылке 404 —
+проверь наличие index.html в корне, название репозитория и Settings -> Pages.
+
+Перед загрузкой проверь публичные описания опыта и навыков —
+не публикуй приватные сведения работодателей или клиентов.
